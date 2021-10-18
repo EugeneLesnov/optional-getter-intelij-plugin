@@ -1,5 +1,6 @@
 package com.github.eugenelesnov;
 
+import com.github.eugenelesnov.util.LibraryUtil;
 import com.intellij.codeInsight.generation.actions.BaseGenerateAction;
 import com.intellij.openapi.editor.Editor;
 import com.intellij.openapi.project.Project;

@@ -1,4 +1,4 @@
-package com.github.eugenelesnov;
+package com.github.eugenelesnov.util;
 
 import com.intellij.openapi.application.ApplicationManager;
 import com.intellij.openapi.project.Project;
