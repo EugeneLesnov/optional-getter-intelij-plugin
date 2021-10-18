@@ -14,6 +14,7 @@
     </extensions>
 
     <actions>
-        <!-- Add your actions here -->
+        <action id="com.github.eugenelesnov.OptionalGetterAction" class="com.github.eugenelesnov.OptionalGetterAction"
+                text="OptionalGetterAction"/>
     </actions>
 </idea-plugin>
