@@ -12,11 +12,9 @@
     <depends>com.intellij.modules.java</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <!-- Add your extensions here -->
+        <postStartupActivity implementation="com.github.eugenelesnov.OptionalGetterActivity"/>
     </extensions>
 
     <actions>
-        <action id="com.github.eugenelesnov.OptionalGetterAction" class="com.github.eugenelesnov.OptionalGetterAction"
-                text="OptionalGetterAction"/>
     </actions>
 </idea-plugin>
